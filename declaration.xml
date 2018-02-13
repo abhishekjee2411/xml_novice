@@ -1,0 +1,23 @@
+<?xml
+	version="1.0"
+	encoding="UTF-8"
+	standalone="yes"
+?>
+
+<!--
+	version
+		specifies the version of the XML standard used.
+	encoding
+		defines the character encoding used in the document.
+			UTF-8
+			UTF-16
+			...
+	standalone
+		informs the parser whether the document relies on the information from an external source for its content.
+		default value : no
+		permissible values : yes, no
+	
+	(version	>	encoding	>	standalone) is the correct sequence of placing the parameters.
+			
+-->
+

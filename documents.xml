@@ -1,0 +1,19 @@
+<?xml version = "1.0"?>
+<contact-info>
+	<name>Tanmay Patil</name>
+	<nickname/>TP
+	<company>TutorialsPoint</company>
+	<phone>(011) 123-4567</phone>
+</contact-info>
+
+<!--Document Prolog-->
+<?xml version = "1.0"?>
+
+<!--Document Elements-->
+<contact-info>
+	<name>Tanmay Patil</name>
+	<nickname/>TP
+	<company>TutorialsPoint</company>
+	<phone>(011) 123-4567</phone>
+</contact-info>
+

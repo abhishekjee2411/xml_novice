@@ -1,0 +1,45 @@
+<?xml version = "1.0"?>
+<contact-info>
+	<name>Tanmay Patil</name>
+	<nickname/>TP
+	<company>TutorialsPoint</company>
+	<phone>(011) 123-4567</phone>
+</contact-info>
+
+<!--XML Declaration-->
+<!--References-->
+<!--Tags-->
+<!--Elements-->
+<!--Attributes-->
+<!--Text-->
+
+An XML document can have only one root element.
+
+<x>...</x>
+<y>...</y>
+	<!--The above document is incorrect, as it does not have a root element.-->
+
+<root>
+	<x>...</x>
+	<y>...</y>
+</root>
+<!--The above document is correct, as there is a root element present.-->
+
+<a href = "http://www.tutorialspoint.com/">TutorialsPoint</a>
+	<!--href is the attribute name.-->
+	<!--"http://www.tutorialspoint.com/" is the attribute's value.-->
+
+<a b = "x" c = "y" b = "z">......</a>
+	<!--The above syntax is incorrect as the attribute "b" is specified twice.-->
+
+<!--Attribute names must always appear without "" quotes.-->
+<!--Attribute values must always appear within "" quotes.-->
+
+<!--To avoid character encoding problems, all XML files should be saved as Unicode UTF-8 or UTF-16 files.-->
+
+<!--Non-allowable characters:-->
+<!--	<	-->
+<!--	>	-->
+<!--	&	-->
+<!--	'	-->
+<!--	"	-->
